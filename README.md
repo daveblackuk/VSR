@@ -6,10 +6,15 @@ VATSIM Radio (VSR) is a toolbar app for Microsoft Flight Simulator 2020 that all
 Information is presented in tabular and map format in a number of sort modes including distance, country, alphanumeric. The app provides easy access to further data including:
 
 •	Station distance & range
+
 •	TAF/METAR (with a free subscription to the relevant service)
+
 •	Textual ATIS information
-•	Textual controller information
+
+•	Textual controller informatio
+
 •	Airport information
+
 The app is designed to work in standard and VR views. The package includes a standalone server that ensures that MSFS maintains optimal performance without any noticeable impact on framerates 
 
 Credits and thanks to the following projects and individuals:
