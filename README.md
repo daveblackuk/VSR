@@ -17,6 +17,9 @@ Server will wait for MSFS to start.
 
 Once the flight is started look for the headset icon in the toolbar, the app should load and get updated with your current position.
 
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/4178804/178278004-fd93cd76-da0e-47d7-b99b-b69de9fbb771.png">
+
+
 To test the app, click on the Unicom frequency 122.800 and your Comm1 radio should change to this frequency.  
  
 
@@ -72,3 +75,10 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
+## Help screens
+![Slide1](https://user-images.githubusercontent.com/4178804/178277253-85626fa4-7c12-419c-8cc4-27a4971712f1.jpeg)
+![Slide2](https://user-images.githubusercontent.com/4178804/178277291-53161f46-36fb-46c8-b53d-cbd4a395f0b3.jpeg)
+![Slide3](https://user-images.githubusercontent.com/4178804/178277329-6a0e8cb4-6ec1-438c-8e58-5484db11df6d.jpeg)
+![Slide4](https://user-images.githubusercontent.com/4178804/178277354-7ba6df9f-90df-42b4-a552-c52d41b5d1ff.jpeg)
+
