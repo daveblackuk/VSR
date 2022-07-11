@@ -56,7 +56,7 @@ David Black
 
 ## Change Log
 
-change log including beta releases <a href="https://docs.google.com/spreadsheets/d/1pHLaK52r3LXt4Q7lJwkGNhDcoo6tHtJIGlU1LCS9lZw/edit#gid=0"> here </a>
+<a href="https://docs.google.com/spreadsheets/d/1pHLaK52r3LXt4Q7lJwkGNhDcoo6tHtJIGlU1LCS9lZw/edit#gid=0" target="_blank">Change log </a>  including beta releases
 
 ## Version History
 
