@@ -77,8 +77,8 @@ Inspiration, code snippets, etc.
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 ## Help screens
-![Slide1](https://user-images.githubusercontent.com/4178804/178277253-85626fa4-7c12-419c-8cc4-27a4971712f1.jpeg)
-![Slide2](https://user-images.githubusercontent.com/4178804/178277291-53161f46-36fb-46c8-b53d-cbd4a395f0b3.jpeg)
-![Slide3](https://user-images.githubusercontent.com/4178804/178277329-6a0e8cb4-6ec1-438c-8e58-5484db11df6d.jpeg)
-![Slide4](https://user-images.githubusercontent.com/4178804/178277354-7ba6df9f-90df-42b4-a552-c52d41b5d1ff.jpeg)
 
+![Slide1](https://user-images.githubusercontent.com/4178804/178279125-5ce48542-b3b9-4db2-8ae3-9abb3ebda818.jpeg)
+![Slide2](https://user-images.githubusercontent.com/4178804/178279144-250af7f3-1f23-4f78-ad72-3355ea2c4134.jpeg)
+![Slide3](https://user-images.githubusercontent.com/4178804/178279149-ee352555-fa55-43c4-b268-f44a7ced10fb.jpeg)
+![Slide4](https://user-images.githubusercontent.com/4178804/178279153-9d269d7d-8711-46b0-9352-9873c0081fb9.jpeg)
