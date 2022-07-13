@@ -16,6 +16,10 @@ Once you are happy that everything is installed, then launch MSFS and click on t
 
 Server will wait for MSFS to start.  
 
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/4178804/178726943-1c6d54e2-d484-4883-9827-3fe21f5015f4.png">
+
+
 Once the flight is started look for the headset icon in the toolbar, the app should load and get updated with your current position.
 
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/4178804/178278004-fd93cd76-da0e-47d7-b99b-b69de9fbb771.png">
