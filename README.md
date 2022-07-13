@@ -62,6 +62,7 @@ The server directory contains a config.ini file; for most configurations this sh
 
 * Microsoft Flight Simulator 2020
 * Windows 10 and above
+* [vPilot](https://vpilot.rosscarlson.dev/) to connect to VATSIM and relay messages 
 * Newtonsoft.json.dll (for messaging) - installed with vPilot
 * SimConnect
 
