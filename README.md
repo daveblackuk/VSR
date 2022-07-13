@@ -62,7 +62,7 @@ The server directory contains a config.ini file; for most configurations this sh
 
 * Microsoft Flight Simulator 2020
 * Windows 10 and above
-* Newtonsoft.jso.dll (for messaging) - installed with vPilot
+* Newtonsoft.json.dll (for messaging) - installed with vPilot
 * SimConnect
 
 ### Installing
@@ -116,6 +116,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 * The [Tabulator](http://tabulator.info/) framework
 * The [VAT-Spy](https://github.com/vatsimnetwork/vatspy-data-project) data project
 * Maximus and others for helping [simplify](https://github.com/bymaximus/msfs2020-toolbar-window-template/issues/22) the MSFS toolbar app environment 
+* Ross Carlson's [vPilot project](https://vpilot.rosscarlson.dev/) 
 * Last but not least, the amazing group of people who joined and Beta programme and tested this thing until it was good to go !
 
 
