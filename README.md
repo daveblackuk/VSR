@@ -116,6 +116,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 * The [Tabulator](http://tabulator.info/) framework
 * The [VAT-Spy](https://github.com/vatsimnetwork/vatspy-data-project) data project
 * Maximus and others for helping [simplify](https://github.com/bymaximus/msfs2020-toolbar-window-template/issues/22) the MSFS toolbar app environment 
+* Last but not least, the amazing group of people who joined and Beta programme and tested this thing until it was good to go !
 
 
 
