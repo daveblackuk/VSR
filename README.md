@@ -34,29 +34,33 @@ To test the app, click on the Unicom frequency 122.800 and your Comm1 radio shou
 
 ## vPilot integration
 
-The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under %USERPROFILE%\appdata\local\vPilot\plugins\ - there is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. If the DLL is correctly installed then the 
+The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under %USERPROFILE%\appdata\local\vPilot\plugins\ - there is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. If the DLL is correctly installed then the vPilot started message will appear in the message panel in the app; the further message will appear once vPilot is connected to the VATSIM network.
 
 <img width="695" alt="image" src="https://user-images.githubusercontent.com/4178804/178728005-8896a6d1-e1b6-4570-bd8c-c8124dbff899.png">
 
- 
+If the messages do not appear then check that the SYTEM has the correct permissions for the DLL.
+
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Microsoft Flight Simulator 2020
+* Windows 10 and above
+* Newtonsoft.jso.dll (for messaging) - installed with vPilot
+* SimConnect
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Download latest zip
+* Unzip and copy vs-radio-toolbar directory to either community or chosen folder
+* run batch install_message.bat in the vs-radio-toolbar\server directory to copy the DLL under vPilot installation
+
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run the VSR.EXE in the vs-radio-toolbar\server directory to start the app
+* Start MSFS 2020, start a flight, click on VSR headset icon in the toolbat to launch the app
+* A splash screen will load, if the server is correctly installed and running it will be displayed
+
 
 ## Help
 
