@@ -1,4 +1,5 @@
-# VSR VATSIM Radio
+# VSR VATSIM Radio![logo]
+
 
 MSFS 2020 toolbar app for VATSIM
 
