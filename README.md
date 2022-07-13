@@ -27,7 +27,7 @@ Server will wait for MSFS to start.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/4178804/178726943-1c6d54e2-d484-4883-9827-3fe21f5015f4.png">
 
-Once the flight is started look for the headset icon in the toolbar, 
+Once the flight is started click on the headset icon in the toolbar, 
 
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/4178804/178727280-07c9c089-f153-44d6-b3ee-b3ed8c04844f.png">
 
