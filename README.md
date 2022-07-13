@@ -11,6 +11,8 @@ MSFS 2020 toolbar app for VATSIM
 
 VATSIM Radio (VSR) is a toolbar app for Microsoft Flight Simulator 2020 that allows you to check what ATC controllers are online when flying on the VATSIM Network. You can easily change to a frequency with a single click, or place a frequency on standby ready to change when requested to by ATC. 
 
+This app is not associated or endorsed by the VATSIM Network
+
 ## Getting Started
 
 
@@ -108,6 +110,12 @@ David Black
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
+
+* Craig Farrell for developing the vPilot plug-in
+* The [Leaflet](https://leafletjs.com/) map libraries 
+* The [Tabulator](http://tabulator.info/) framework
+* The [VAT-Spy](https://github.com/vatsimnetwork/vatspy-data-project) data project
+* Maximus and others for helping [simplify](https://github.com/bymaximus/msfs2020-toolbar-window-template/issues/22) the MSFS toolbar app environment 
 
 
 
