@@ -41,7 +41,11 @@ To test the app, click on the Unicom frequency 122.800 and your Comm1 radio shou
 
 ## vPilot integration
 
-The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  C:\Users\[your username]\AppData\Local\vPilot\Plugins. There is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. 
+The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  
+
+C:\Users\[your username]\AppData\Local\vPilot\Plugins. 
+
+There is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. 
 
 If the DLL is correctly installed then the vPilot started message will appear in the message panel in the app; the further message will appear once vPilot is connected to the VATSIM network.
 
