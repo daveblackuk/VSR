@@ -40,6 +40,17 @@ The server integrates with vPilot using a plug-in DLL - this needs to be copied 
 
 If the messages do not appear then check that the SYTEM has the correct permissions for the DLL.
 
+## Config.ini
+
+The server directory contains a config.ini file; for most configurations this should be unchanged, however if you wish to add live TAF/METAR information then change the key to a key obtained from https://www.checkwxapi.com/ 
+
+* The refresh time is set to 10 minutes, setting to 0 will disable automatic refreshes and require a manual refresh.
+* The maximum distance for stations is set at 1500nm; this can be changed dynamically in the App.
+* The default radio is set at Comm1 active, this can be changed in this file
+
+<img width="977" alt="image" src="https://user-images.githubusercontent.com/4178804/178731182-4aebb291-9904-4ac7-ab64-05e1f9f27c14.png">
+
+
 
 ### Dependencies
 
