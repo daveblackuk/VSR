@@ -4,7 +4,7 @@ MSFS 2020 toolbar app for VATSIM
 
 
 
-<a href="https://www.youtube.com/watch?v=TaDjbuafZbg" target = "blank"> <img width="800" alt="image" src="https://user-images.githubusercontent.com/4178804/178738153-935324aa-7ce9-4857-81c4-af3385934324.png"> </a>
+<a href="https://www.youtube.com/watch?v=TaDjbuafZbg" target="_blank"> <img width="800" alt="image" src="https://user-images.githubusercontent.com/4178804/178738153-935324aa-7ce9-4857-81c4-af3385934324.png"> </a>
 
 
 ## Description
@@ -14,7 +14,7 @@ VATSIM Radio (VSR) is a toolbar app for Microsoft Flight Simulator 2020 that all
 ## Getting Started
 
 
-Download the zip file and unzip into either your community folder or your preferred choice (if using an add-on linker for instance).  The server directory needs create, write and delete rights to the directory to create it’s working files.
+Download the zip file containing the latest version and unzip into either your community folder or your preferred choice (if using an add-on linker for instance).  The server directory needs create, write and delete rights to the directory to create it’s working files.
 
 Once you are happy that everything is installed, then launch MSFS and click on the VSR.EXE file in the SERVER directory.
 
