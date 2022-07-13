@@ -20,7 +20,12 @@ Server will wait for MSFS to start.
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/4178804/178726943-1c6d54e2-d484-4883-9827-3fe21f5015f4.png">
 
 
-Once the flight is started look for the headset icon in the toolbar, the app should load and get updated with your current position.
+Once the flight is started look for the headset icon in the toolbar, 
+
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/4178804/178727280-07c9c089-f153-44d6-b3ee-b3ed8c04844f.png">
+
+
+The app should load and get updated with your current position.
 
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/4178804/178278004-fd93cd76-da0e-47d7-b99b-b69de9fbb771.png">
 
@@ -70,11 +75,8 @@ David Black
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 1.0
+    * Initial Release 15th July, 2022
 
 ## License
 
@@ -82,7 +84,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-[fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
 
 ## Help screens
 
