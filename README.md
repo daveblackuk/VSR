@@ -88,11 +88,12 @@ The server directory contains a config.ini file; for most configurations this sh
 
 * Controllers may appear above the Unicom frequency and on the map at 0 miles distance, this is caused by the VATSIM feed data baing out of sync and is designed to ensure that controllers are always visible irrespective of the feed. This is normally shortlived and disappears with a refresh about a few minutes when the controller is assigned the correct location. 
 
+
 ## Authors
 
-Contributors names and contact info
+* David Black (main server and app)
+* Craig Farrell (vPilot plug-in)
 
-David Black 
 
 ### Buy me a Coffee
 
