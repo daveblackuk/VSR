@@ -9,7 +9,7 @@ MSFS 2020 toolbar app for VATSIM
 
 ## Description
 
-VATSIM Radio (VSR) is a toolbar app for Microsoft Flight Simulator 2020 that allows you to check what ATC controllers are online when flying on the VATSIM Network. You can easily change to a frequency with a single click, or place a frequency on standby ready to change when requested to by ATC. 
+VATSIM Radio (VSR) is a toolbar app for Microsoft Flight Simulator 2020 that allows you to check which ATC controllers are online when flying on the VATSIM Network. You can easily change to a frequency with a single click, or place a frequency on standby ready to change when requested to by ATC. The app also receives messages from the VATSIM network.
 
 This app is not associated or endorsed by the VATSIM Network
 
@@ -40,7 +40,9 @@ To test the app, click on the Unicom frequency 122.800 and your Comm1 radio shou
 
 ## vPilot integration
 
-The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under %USERPROFILE%\appdata\local\vPilot\plugins\ - there is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. If the DLL is correctly installed then the vPilot started message will appear in the message panel in the app; the further message will appear once vPilot is connected to the VATSIM network.
+The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under %USERPROFILE%\appdata\local\vPilot\plugins\ - there is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. 
+
+If the DLL is correctly installed then the vPilot started message will appear in the message panel in the app; the further message will appear once vPilot is connected to the VATSIM network.
 
 <img width="695" alt="image" src="https://user-images.githubusercontent.com/4178804/178728005-8896a6d1-e1b6-4570-bd8c-c8124dbff899.png">
 
@@ -48,7 +50,7 @@ If the messages do not appear then check that the SYTEM has the correct permissi
 
 ## Config.ini
 
-The server directory contains a config.ini file; for most configurations this should be unchanged, however if you wish to add live TAF/METAR information then change the key to a key obtained from https://www.checkwxapi.com/ 
+The server directory contains a config.ini file; for most configurations this should be unchanged, however if you wish to add live TAF/METAR information then add a key obtained from https://www.checkwxapi.com/ 
 
 * The refresh time is set to 10 minutes, setting to 0 will disable automatic refreshes and require a manual refresh.
 * The maximum distance for stations is set at 1500nm; this can be changed dynamically in the App.
