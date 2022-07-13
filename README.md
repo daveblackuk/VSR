@@ -31,6 +31,13 @@ The app should load and get updated with your current position.
 
 
 To test the app, click on the Unicom frequency 122.800 and your Comm1 radio should change to this frequency.  
+
+## vPilot integration
+
+The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under %USERPROFILE%\appdata\local\vPilot\plugins\ - there is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. If the DLL is correctly installed then the 
+
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/4178804/178728005-8896a6d1-e1b6-4570-bd8c-c8124dbff899.png">
+
  
 
 ### Dependencies
