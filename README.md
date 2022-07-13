@@ -19,13 +19,13 @@ This app is not associated or endorsed by the VATSIM Network
 
 Download the zip file containing the latest version and unzip into either your community folder or your preferred choice (if using an add-on linker for instance).  The server directory needs create, write and delete rights to the directory to create it’s working files.
 
-Once you are happy that everything is installed, then launch MSFS and click on the VSR.EXE file in the SERVER directory.
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/4178804/178781921-e038b421-50f8-448e-87d2-95d75f829353.png">
+
+Once you are happy that everything is installed, then launch MSFS and click on the VSR.EXE file in the server directory.
 
 Server will wait for MSFS to start.  
 
-
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/4178804/178726943-1c6d54e2-d484-4883-9827-3fe21f5015f4.png">
-
 
 Once the flight is started look for the headset icon in the toolbar, 
 
