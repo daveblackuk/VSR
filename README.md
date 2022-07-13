@@ -73,12 +73,9 @@ The server directory contains a config.ini file; for most configurations this sh
 * A splash screen will load, if the server is correctly installed and running it will be displayed
 
 
-## Help
+## Known issues
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Crash to desktop issues have been reported with the Fenix A320; changing the memory allocations as per <a href="https://kb.fenixsim.com/potential-way-to-help-stop-ctds" target="_blank"> these instructions </a> may resolve this issue. 
 
 ## Authors
 
