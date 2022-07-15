@@ -51,7 +51,7 @@ If the DLL is correctly installed then the vPilot started message will appear in
 
 <img width="695" alt="image" src="https://user-images.githubusercontent.com/4178804/178728005-8896a6d1-e1b6-4570-bd8c-c8124dbff899.png">
 
-If the messages do not appear then check that the SYTEM has the correct permissions for the DLL.
+If the messages do not appear then check that correct permissions are set for for the DLL (see below under Known issues)
 
 ## Config.ini
 
@@ -92,6 +92,11 @@ The server directory contains a config.ini file; for most configurations this sh
 * Crash to desktop issues have been reported with the Fenix A320; changing the memory allocations as per <a href="https://kb.fenixsim.com/potential-way-to-help-stop-ctds" target="_blank"> these instructions </a> may resolve this issue. 
 
 * Controllers may appear above the Unicom frequency and on the map at 0 miles distance, this is caused by the VATSIM feed data baing out of sync and is designed to ensure that controllers are always visible irrespective of the feed. This is normally shortlived and disappears with a refresh about a few minutes when the controller is assigned the correct location. 
+
+* The DLL may require additional permissions to run; right click on the DLL and ensure that the unblock security check box has been checked 
+
+![image](https://user-images.githubusercontent.com/4178804/179221242-f3318ff9-dd48-4426-b801-16dab1d3ea4b.png)
+
 
 
 ## Authors
