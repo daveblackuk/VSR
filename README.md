@@ -93,7 +93,7 @@ The server directory contains a config.ini file; for most configurations this sh
 
 * Controllers may appear above the Unicom frequency and on the map at 0 miles distance, this is caused by the VATSIM feed data baing out of sync and is designed to ensure that controllers are always visible irrespective of the feed. This is normally shortlived and disappears with a refresh about a few minutes when the controller is assigned the correct location. 
 
-* The DLL may require additional permissions to run; right click on the DLL and ensure that the unblock security check box has been checked 
+* The DLL may require additional permissions to run; right click on the DLL and ensure that the unblock security check box, if shown, has been checked 
 
 ![image](https://user-images.githubusercontent.com/4178804/179221242-f3318ff9-dd48-4426-b801-16dab1d3ea4b.png)
 
