@@ -17,7 +17,7 @@ This app is not associated or endorsed by the VATSIM Network
 ## Getting Started
 
 
-Download the zip file containing the latest version and unzip into either your community folder or your preferred choice (if using an add-on linker for instance).  The server directory needs create, write and delete rights to the directory to create it’s working files.
+Download the zip file containing the latest version and unzip the entire folder "vs-radio-toolbar" into your community folder. The server directory needs create, write and delete rights to the directory to create it’s working files.
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/4178804/178781921-e038b421-50f8-448e-87d2-95d75f829353.png">
 
@@ -39,7 +39,7 @@ The app should load and get updated with your current position.
 
 To test the app, click on the Unicom frequency 122.800 and your Comm1 radio should change to this frequency.  
 
-## vPilot integration
+## vPilot integration - Important requirement for messages from Vatsim network
 
 The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  
 
