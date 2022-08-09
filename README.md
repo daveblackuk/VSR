@@ -47,6 +47,8 @@ C:\Users\[your username]\AppData\Local\vPilot\Plugins.
 
 There is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. 
 
+Stop and start vPilot, the reconnect to the network. 
+
 If the DLL is correctly installed then the vPilot started message will appear in the message panel in the app; the further message will appear once vPilot is connected to the VATSIM network.
 
 <img width="695" alt="image" src="https://user-images.githubusercontent.com/4178804/178728005-8896a6d1-e1b6-4570-bd8c-c8124dbff899.png">
@@ -93,10 +95,13 @@ The server directory contains a config.ini file; for most configurations this sh
 
 * Controllers may appear above the Unicom frequency and on the map at 0 miles distance, this is caused by the VATSIM feed data baing out of sync and is designed to ensure that controllers are always visible irrespective of the feed. This is normally shortlived and disappears with a refresh about a few minutes when the controller is assigned the correct location. 
 
-* If you are not receiving messages from Vatsim, then the DLL may require additional permissions to run; right click on the DLL and ensure that the unblock security check box, if shown, has been checked 
+* If you are not receiving messages from Vatsim, then the DLL may require additional permissions to run; right click on the DLL and ensure that the unblock security check box, if shown, has been checked . Stop and start vPilot, the reconnect to the network. 
 
 ![image](https://user-images.githubusercontent.com/4178804/179221242-f3318ff9-dd48-4426-b801-16dab1d3ea4b.png)
 
+• Some icons do not render correctly in MSFS; this is due to limitations in the MSFS internal browser. This due to the style sheets in the tabulator framework used for the tables; it is on the backlog to resolve (if possible).
+
+• Window sizing is an issue with SU9 and currently (9th Aug) SU10, this also causes issues with scrollbars - The app uses a fixed size but the enclosing window size is not persistant, known ASOBO fault. 
 
 
 ## Authors
@@ -119,9 +124,10 @@ The server directory contains a config.ini file; for most configurations this sh
 * 1.0
     * Initial Release 15th July, 2022
 
-## License
+## Discord channel
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+https://discord.gg/MJ6fBfYfNR
+
 
 ## Acknowledgments
 
