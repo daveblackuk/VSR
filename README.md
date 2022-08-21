@@ -20,7 +20,7 @@ This app is not associated or endorsed by the VATSIM Network
 ## Getting Started
 
 
-Download the zip file containing the latest version and unzip the entire folder "vs-radio-toolbar" into your community folder. The server directory needs create, write and delete rights to the directory to create it’s working files.
+<a href="https://github.com/daveblackuk/VSR/releases"> Download </a> the zip file containing the latest version and unzip the entire folder "vs-radio-toolbar" into your community folder. The server directory needs create, write and delete rights to the directory to create it’s working files.
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/4178804/178781921-e038b421-50f8-448e-87d2-95d75f829353.png">
 
