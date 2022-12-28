@@ -19,16 +19,21 @@ This app is not associated or endorsed by the VATSIM Network
 
 ## Getting Started
 
+*** Please note ***
 
-<a href="https://github.com/daveblackuk/VSR/releases"> Download </a> the zip file containing the latest version and unzip the entire folder "vs-radio-toolbar" into your community folder. The server directory needs create, write and delete rights to the directory to create it’s working files.
+The install process is now via an installer programme, this will:
 
-<img width="370" alt="image" src="https://user-images.githubusercontent.com/4178804/178781921-e038b421-50f8-448e-87d2-95d75f829353.png">
+* Install latest release of the server
+* Install latest release of the VSR Toolbar app
+* Install latest release of the VSR/vPilot messaging DLL (and check it is installed correctly)
+* Install new vPilot inbound message sounds 
+* Enable configuration of the server with simBrief, VATSIM and CHECKWX data
 
-Once you are happy that everything is installed, then launch MSFS and click on the VSR.EXE file in the server directory.
+<a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> 
+The insallation tutorial contains important information:  </a>
+
 
 Server will wait for MSFS to start.  
-
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/4178804/178726943-1c6d54e2-d484-4883-9827-3fe21f5015f4.png">
 
 Once the flight is started click on the headset icon in the toolbar, 
 
@@ -44,6 +49,8 @@ To test the app, click on the Unicom frequency 122.800 and your Comm1 radio shou
 
 ## vPilot integration - Important requirement for messages from Vatsim network
 
+The installer should install in the default directory - these instructions are for manual installation:
+
 The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  
 
 C:\Users\[your username]\AppData\Local\vPilot\Plugins. 
@@ -58,17 +65,6 @@ If the DLL is correctly installed then the vPilot started message will appear in
 
 If the messages do not appear then check that correct permissions are set for for the DLL (see below under Known issues)
 
-## Config.ini
-
-The server directory contains a config.ini file; for most configurations this should be unchanged, however if you wish to add live TAF/METAR information then add a key obtained from https://www.checkwxapi.com/ 
-
-* The refresh time is set to 10 minutes, setting to 0 will disable automatic refreshes and require a manual refresh.
-* The maximum distance for stations is set at 1500nm; this can be changed dynamically in the App.
-* The default radio is set at Comm1 active, this can be changed in this file
-
-<img width="977" alt="image" src="https://user-images.githubusercontent.com/4178804/178731182-4aebb291-9904-4ac7-ab64-05e1f9f27c14.png">
-
-
 
 ### Dependencies
 
@@ -80,9 +76,7 @@ The server directory contains a config.ini file; for most configurations this sh
 
 ### Installing
 
-* Download latest zip
-* Unzip and copy vs-radio-toolbar directory to either community or chosen folder
-* run batch install_message.bat in the vs-radio-toolbar\server directory to copy the DLL under vPilot installation
+* Download and run latest installer
 
 
 ### Executing program
@@ -106,7 +100,6 @@ The server directory contains a config.ini file; for most configurations this sh
 
 • Some icons do not render correctly in MSFS; this is due to limitations in the MSFS internal browser. This due to the style sheets in the tabulator framework used for the tables; it is on the backlog to resolve (if possible).
 
-• Window sizing is an issue with SU9 and currently (9th Aug) SU10, this also causes issues with scrollbars - The app uses a fixed size but the enclosing window size is not persistant, known ASOBO fault. 
 
 
 ## Authors
@@ -123,11 +116,6 @@ The server directory contains a config.ini file; for most configurations this sh
 ## Change Log
 
 <a href="https://docs.google.com/spreadsheets/d/1pHLaK52r3LXt4Q7lJwkGNhDcoo6tHtJIGlU1LCS9lZw/edit#gid=0" target="_blank" >Change log </a>  including beta releases
-
-## Version History
-
-* 1.0
-    * Initial Release 15th July, 2022
 
 ## Discord channel
 
@@ -146,9 +134,4 @@ https://discord.gg/MJ6fBfYfNR
 
 
 
-## Help screens
 
-![Slide1](https://user-images.githubusercontent.com/4178804/178279125-5ce48542-b3b9-4db2-8ae3-9abb3ebda818.jpeg)
-![Slide2](https://user-images.githubusercontent.com/4178804/178279144-250af7f3-1f23-4f78-ad72-3355ea2c4134.jpeg)
-![Slide3](https://user-images.githubusercontent.com/4178804/178279149-ee352555-fa55-43c4-b268-f44a7ced10fb.jpeg)
-![Slide4](https://user-images.githubusercontent.com/4178804/178279153-9d269d7d-8711-46b0-9352-9873c0081fb9.jpeg)
