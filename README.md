@@ -47,6 +47,12 @@ The app should load and get updated with your current position.
 
 To test the app, click on the Unicom frequency 122.800 and your Comm1 radio should change to this frequency.  
 
+## Virus warnings
+
+Some AV solutions have issues with the installer; ![image](https://user-images.githubusercontent.com/4178804/209872578-79477307-869d-4743-8cb9-7182a85ac571.png)
+
+If this occurs, run the installer as administrator and allow the execution 
+
 ## vPilot integration - Important requirement for messages from Vatsim network
 
 The installer should install in the default directory - these instructions are for manual installation:
