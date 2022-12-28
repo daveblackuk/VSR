@@ -4,7 +4,6 @@
 MSFS 2020 toolbar app for VATSIM
 
 
-
 <a href="https://www.youtube.com/watch?v=TaDjbuafZbg" target="_blank"> <img width="800" alt="image" src="https://user-images.githubusercontent.com/4178804/178738153-935324aa-7ce9-4857-81c4-af3385934324.png"> </a>
 
 <a href="https://www.youtube.com/watch?v=TaDjbuafZbg" target="_blank"> 
@@ -102,7 +101,6 @@ If the messages do not appear then check that correct permissions are set for fo
 • Some icons do not render correctly in MSFS; this is due to limitations in the MSFS internal browser. This due to the style sheets in the tabulator framework used for the tables; it is on the backlog to resolve (if possible).
 
 
-
 ## Authors
 
 * David Black (main server and app)
@@ -112,11 +110,6 @@ If the messages do not appear then check that correct permissions are set for fo
 ### Buy me a Coffee
 
 <a href="https://www.buymeacoffee.com/deltabravozulu" target="_blank"><img width="100" alt="bmc-logo-yellow" src="https://user-images.githubusercontent.com/4178804/178282683-2d1195e1-7582-4ab5-aee3-9b57305e795c.png"></a>
-
-
-## Change Log
-
-<a href="https://docs.google.com/spreadsheets/d/1pHLaK52r3LXt4Q7lJwkGNhDcoo6tHtJIGlU1LCS9lZw/edit#gid=0" target="_blank" >Change log </a>  including beta releases
 
 ## Discord channel
 
