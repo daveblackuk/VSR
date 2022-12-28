@@ -32,6 +32,7 @@ The install process is now via an installer programme, this will:
 <a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> 
 The insallation tutorial contains important information:  </a>
 
+### Running Software
 
 Server will wait for MSFS to start.  
 
