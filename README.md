@@ -35,7 +35,7 @@ You can check in the simulator to ensure the toolbar app is installed and loaded
 
 ![Microsoft Flight Simulator Screenshot 2022 06 09 - 05 41 42 96](https://user-images.githubusercontent.com/4178804/210109986-72bc6617-90dc-4ffd-9ddc-2222ec0a2822.png)
 
-### Running Software
+### Running the server
 
 Server will wait for MSFS to start.  
 
