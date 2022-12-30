@@ -31,6 +31,10 @@ The install process is now via an installer programme, this will:
 <a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> 
 The installation tutorial contains important information  </a>
 
+You can check in the simulator to ensure the toolbar app is installed and loaded:
+
+![Microsoft Flight Simulator Screenshot 2022 06 09 - 05 41 42 96](https://user-images.githubusercontent.com/4178804/210109986-72bc6617-90dc-4ffd-9ddc-2222ec0a2822.png)
+
 ### Running Software
 
 Server will wait for MSFS to start.  
