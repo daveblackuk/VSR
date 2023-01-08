@@ -29,9 +29,10 @@ The install process is now via an installer programme, this will:
 * Enable configuration of the server with simBrief, VATSIM and CHECKWX data
 
 <a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> 
+  
 The installation tutorial contains important information  </a>
 
-Download the zip file in the latest release, run vsrinstaller,exe from the unzipped folder, as shown:
+Download the zip file under latest release link on the right, unzip & run vsrinstaller,exe from the unzipped folder, as shown:
 
 <img width="821" alt="image" src="https://user-images.githubusercontent.com/4178804/211213117-ba93578d-f1b6-4702-bf6d-a35f03f3c73e.png">
 
