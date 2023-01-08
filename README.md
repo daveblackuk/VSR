@@ -31,6 +31,11 @@ The install process is now via an installer programme, this will:
 <a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> 
 The installation tutorial contains important information  </a>
 
+Download the zip file in the latest release, run vsrinstaller,exe from the unzipped folder, as shown:
+
+<img width="821" alt="image" src="https://user-images.githubusercontent.com/4178804/211213117-ba93578d-f1b6-4702-bf6d-a35f03f3c73e.png">
+
+
 You can check in the simulator to ensure the toolbar app is installed and loaded:
 
 ![Microsoft Flight Simulator Screenshot 2022 06 09 - 05 41 42 96](https://user-images.githubusercontent.com/4178804/210109986-72bc6617-90dc-4ffd-9ddc-2222ec0a2822.png)
