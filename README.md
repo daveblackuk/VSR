@@ -28,7 +28,7 @@ The install process is now via an installer programme, this will:
 * Install new vPilot inbound message sounds 
 * Enable configuration of the server with simBrief, VATSIM and CHECKWX data
 
-<a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> 
+<a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> Installer Video </a>
   
 Download the zip file under latest release link on the right, unzip & run vsrinstaller,exe from the unzipped folder, as shown:
 
