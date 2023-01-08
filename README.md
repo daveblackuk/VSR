@@ -61,11 +61,9 @@ If this occurs, run the installer as administrator and allow the execution
 
 The installer should install in the default directory - these instructions are for manual installation:
 
-The server integrates with vPilot using a plug-in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  
+The server integrates with vPilot using a plug -in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  
 
 C:\Users\[your username]\AppData\Local\vPilot\Plugins. 
-
-There is a batch file (install_message.bat) in the server directory that will automatically copy the DLL to the correct directory. 
 
 Stop and start vPilot, the reconnect to the network. 
 
