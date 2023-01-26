@@ -130,7 +130,11 @@ If messaging is not functioning, then please check:
 
 ## Running the server
 ### Startup procedure
-### 
+## Troubleshooting
+### Known issues
+### How to debug
+## FAQs
+
 
 
 
