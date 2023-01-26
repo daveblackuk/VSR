@@ -69,10 +69,10 @@ You can either run the installer, or install manually.
 The installer will undertake a number of checks as it proceeds:
 
 * Check the MSFS community folder, it will vary based upon whether MSFS was installed:
-  * Via MS Store  
-  * Via Steam
-  * Via a physical disk
-  * Manually 
+   * Via MS Store  
+   * Via Steam
+   * Via a physical disk
+   * Manually 
 * Check the versions of the downloaded components
 * Check whether you wish to continue or install manually
 * Ask you where you wish to install the toolbar app component
