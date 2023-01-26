@@ -10,7 +10,7 @@ MSFS 2020 toolbar app for VATSIM
 Click to play promo video </a>
 
 
-## Description
+# Description
 
 VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to check which air traffic controllers are online when flying on the VATSIM Network. You can easily change to a frequency with a single click, or place a frequency on standby ready to change when requested to by ATC. The app also send & receives messages to and from the VATSIM network.
 
