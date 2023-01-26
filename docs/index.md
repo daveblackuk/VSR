@@ -1,8 +1,6 @@
 # VSR for VATSIM 
 
-
 MSFS 2020 toolbar app for VATSIM
-
 
 <a href="https://www.youtube.com/watch?v=Xp72yo8IUcY" target="_blank"> <img width="800" alt="image" src="https://user-images.githubusercontent.com/4178804/178738153-935324aa-7ce9-4857-81c4-af3385934324.png"> </a>
 
@@ -16,7 +14,6 @@ VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to chec
 This app is not associated or endorsed by the VATSIM Network
 
 ### Features
-
 
 <img src="images/vs0.png"  width="75%" height="75%"></img>
 <img src="images/vs1.png"  width="75%" height="75%"></img>
@@ -42,7 +39,6 @@ An optional sound file can be installed under vPilot which makes it easier to he
 
 ### Installation 
 
-
 The install process can either be run through the installer programme, or manually. The installer will:
 
 * Install latest release of the server
@@ -61,7 +57,6 @@ The install process can either be run through the installer programme, or manual
 * Newtonsoft.json.dll (for messaging) - installed with vPilot
 * SimConnect (installed with MSFS)
 
-  
 ### The VSR Zip file
 
 Download the latest version from the <a href="https://github.com/daveblackuk/VSR/releases/tag/VSR" target="_blank">github repository</a>
@@ -215,10 +210,6 @@ https://discord.gg/MJ6fBfYfNR
 * Maximus and others for helping [simplify](https://github.com/bymaximus/msfs2020-toolbar-window-template/issues/22) the MSFS toolbar app environment 
 * Ross Carlson's [vPilot project](https://vpilot.rosscarlson.dev/) 
 * Last but not least, the amazing group of people who joined and Beta programme and tested this thing until it was good to go !
-
-
-
-
 
 ## Additional Screenshots
 ![Alt text](./images/screenshot1.png)
