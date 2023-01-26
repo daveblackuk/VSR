@@ -1,4 +1,4 @@
-site_name: Basic MkDocs Example Project
+site_name: VSR Toolbar app for VATSIM
 theme:
   name: readthedocs
   highlightjs: true
