@@ -64,6 +64,7 @@ Unzip the file; the directory structure should be as follows:
 You can either run the installer, or install manually.
 
 ### Automatic installer
+#### Installation process
 
 The installer will undertake a number of checks as it proceeds:
 
@@ -96,18 +97,13 @@ The installer will undertake a number of checks as it proceeds:
   
 * If there are issues, please read the DLL section (below)
 
-
-
-
-
-
-
 #### Virus warnings
-#### Directories
-#### Automatic Tests
+
+
 ### Manual installation
 #### Directories
-#### The VSR vPilot DLL
+#### File permissions
+### The VSR vPilot DLL
 
 If messaging is not functioning, then please check:
 
@@ -116,7 +112,7 @@ If messaging is not functioning, then please check:
   * the DLL has the correct security permissions set
 
 
-#### vPilot Sound file
+### vPilot Sound file
 
 ### The Metar key
 #### Why do you need a key?
@@ -129,8 +125,8 @@ If messaging is not functioning, then please check:
 
 ### Your SimBrief ID
 #### Why do you need it?
-### Where to find your SimBrief ID
-#### Configuring the SimBrief CID in VSR
+#### Where to find your SimBrief ID
+#### Configuring the SimBrief ID in VSR
 
 ## Running the server
 ### Startup procedure
