@@ -217,7 +217,7 @@ https://discord.gg/MJ6fBfYfNR
 ![Alt text](./images/screenshot2.png)
 
 ![Alt text](./images/screenshot3.png)
-s
+
 ![Alt text](./images/screenshot4.png)
 
 
