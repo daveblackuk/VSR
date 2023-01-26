@@ -16,9 +16,9 @@ VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to chec
 
 This app is not associated or endorsed by the VATSIM Network
 
-## Getting Started
+# Getting Started
 
-*** Please note ***
+## Installation 
 
 The install process is now via an installer programme, this will:
 
@@ -35,11 +35,26 @@ Download the zip file under latest release link on the right, unzip & run vsrins
 <img width="821" alt="image" src="https://user-images.githubusercontent.com/4178804/211213117-ba93578d-f1b6-4702-bf6d-a35f03f3c73e.png">
 
 
+
+### Virus warnings
+
+Some AV solutions have issues with the installer; ![image](https://user-images.githubusercontent.com/4178804/209872578-79477307-869d-4743-8cb9-7182a85ac571.png)
+
+If this occurs, run the installer as administrator and allow the execution 
+
+### Checking the Toolbar app is installed correctly
+
 You can check in the simulator to ensure the toolbar app is installed and loaded:
 
 ![Microsoft Flight Simulator Screenshot 2022 06 09 - 05 41 42 96](https://user-images.githubusercontent.com/4178804/210109986-72bc6617-90dc-4ffd-9ddc-2222ec0a2822.png)
 
-### Running the server
+## Running the server
+
+* Run the VSR.EXE in the vs-radio-toolbar\server directory to start the app
+* Start MSFS 2020, start a flight, click on VSR headset icon in the toolbat to launch the app
+* A splash screen will load, if the server is correctly installed and running it will be displayed
+
+
 
 Server will wait for MSFS to start.  
 
@@ -55,13 +70,8 @@ The app should load and get updated with your current position.
 
 To test the app, click on the Unicom frequency 122.800 and your Comm1 radio should change to this frequency.  
 
-## Virus warnings
-
-Some AV solutions have issues with the installer; ![image](https://user-images.githubusercontent.com/4178804/209872578-79477307-869d-4743-8cb9-7182a85ac571.png)
-
-If this occurs, run the installer as administrator and allow the execution 
-
 ## vPilot integration 
+
 ### Important requirement for messages from Vatsim network
 
 The installer should install in the default directory - these instructions are for manual installation:
@@ -79,7 +89,7 @@ If the DLL is correctly installed then the vPilot started message will appear in
 If the messages do not appear then check that correct permissions are set for for the DLL (see below under Known issues)
 
 
-### Dependencies
+## Dependencies
 
 * Microsoft Flight Simulator 2020
 * Windows 10 and above
@@ -87,27 +97,28 @@ If the messages do not appear then check that correct permissions are set for fo
 * Newtonsoft.json.dll (for messaging) - installed with vPilot
 * SimConnect
 
-### Installing
 
-* Download and run latest installer
-
-
-### Executing program
-
-* Run the VSR.EXE in the vs-radio-toolbar\server directory to start the app
-* Start MSFS 2020, start a flight, click on VSR headset icon in the toolbat to launch the app
-* A splash screen will load, if the server is correctly installed and running it will be displayed
 
 
 ## Known issues
 
+### Restarting the server
+
 * If you start a new flight after returning to the main simulator menu, then please restart the server from the config menu to ensure the correct aircraft location is shown in VSR.
+
+### Restarting the server after a CTD
 
 * AFTER CTD restart the VSR server. This can be done from U/I using debug menu in left hand header above Airports table. Failure to restart might cause the App from updating frequencies and getting postion updates from Sim. 
 
+### Issues with the FENIX A32X
+
 * Crash to desktop issues have been reported with the Fenix A320; changing the memory allocations as per <a href="https://kb.fenixsim.com/potential-way-to-help-stop-ctds" target="_blank"> these instructions </a> may resolve this issue. 
 
+### Controllers without location data
+
 * Controllers may appear above the Unicom frequency and on the map at 0 miles distance, this is caused by the VATSIM feed data baing out of sync and is designed to ensure that controllers are always visible irrespective of the feed. This is normally shortlived and disappears with a refresh about a few minutes when the controller is assigned the correct location. 
+
+### DLL permissions
 
 * If you are not receiving messages from Vatsim, then the DLL may require additional permissions to run; right click on the DLL and ensure that the unblock security check box, if shown, has been checked . Stop and start vPilot, the reconnect to the network. 
 
