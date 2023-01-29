@@ -145,10 +145,25 @@ C:\Users\[your username]\AppData\Local\vPilot\sounds.
 The METAR key is entered in the configuration screen
 Tools->Edit config->Your weather key
 
-![Alt text](images/config-vatsim-cid.png)
-### Your vPilot CID
+![Alt text](images/config-metar-key.png)
+
+### Your VATSIM User ID 
+
+Your vPilot CID, or user ID, is used when you login to VATSIM using vPilot or via the web, it is typically a six digit number.
+
 #### Why do you need it?
+
+VSR uses your CID for two functions:
+
+* Removes your "ghost" aircraft from the map, otherwise you get followed by a green aircraft. 
+* Retrieves your flight plan, so you can load the departure, arrival and alternat airports.
+
 #### Configuring the vPilot CID in VSR
+The VATSIM CID is entered in the configuration screen
+Tools->Edit config->Your VATSIM ID.
+
+![Alt text](images/config-vatsim-cid.png)
+
 
 ### Your SimBrief ID
 #### Why do you need it?
