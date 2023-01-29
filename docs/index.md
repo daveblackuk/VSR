@@ -133,7 +133,7 @@ Copy the server executable VSR.EXE to a directory of your choice
 
 The server integrates with vPilot using a plug -in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  
 
-' %AppData%\Local\vPilot\Plugins. '
+` %AppData%\Local\vPilot\Plugins. ` 
 
 Stop and start vPilot, then reconnect to the network. 
 
@@ -152,7 +152,7 @@ If messaging is not functioning, then please see the [debugging section](#how-to
 
 Copy the sound files to the following directory:
 
-' %AppData%\Local\vPilot\sounds '
+`  %AppData%\Local\vPilot\sounds ` 
 
 ### The Metar key
 #### Why do you need a key?
