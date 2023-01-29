@@ -107,12 +107,33 @@ Some AV solutions have issues with the installer; ![image](https://user-images.g
 If this occurs, run the installer as administrator and allow the execution 
 
 ### Manual installation
+
+Manual installation is not recommended, however if you wish to copy the files yourself then the following is important:
+
 #### Directories
+
+Copy the vs-radio-toolbar folder to either a custom folder or the community folder for your installation:
+
+Microsoft Store:
+
+` %AppData%\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community ` 
+
+Steam:
+
+` %AppData%\Roaming\Microsoft Flight Simulator\Packages\Community` 
+
+Retail disk:
+
+` %AppData%\Local\MSFSPackages\Community` 
+
+Copy the server executable VSR.EXE to a directory of your choice
+
+
 #### The VSR vPilot DLL
 
 The server integrates with vPilot using a plug -in DLL - this needs to be copied to the vPilot\plugins\ folder, if vPilot has been installed without changes then this can be found under  
 
-C:\Users\[your username]\AppData\Local\vPilot\Plugins. 
+' %AppData%\Local\vPilot\Plugins. '
 
 Stop and start vPilot, then reconnect to the network. 
 
@@ -127,9 +148,11 @@ If the messages do not appear then check that correct permissions are set for fo
 If messaging is not functioning, then please see the [debugging section](#how-to-debug).
   
 
-### vPilot Sound file
+#### vPilot Sound files 
 
-C:\Users\[your username]\AppData\Local\vPilot\sounds. 
+Copy the sound files to the following directory:
+
+' %AppData%\Local\vPilot\sounds '
 
 ### The Metar key
 #### Why do you need a key?
@@ -164,11 +187,37 @@ Tools->Edit config->Your VATSIM ID.
 
 ![Alt text](images/config-vatsim-cid.png)
 
-
 ### Your SimBrief ID
+
+This tutorial covers all the aspects of SimBrief integration
+
+ <a href="https://www.youtube.com/watch?v=q0iAoEC4zIU" target="_blank">SimBrief VSR Tutorial</a>
+
+![Alt text](images/SB2.png)
+
 #### Why do you need it?
+
+VSR uses SimBrief information to:
+
+ * Import your latest flight plan
+ * Filter the airport table with your depature and arrival airports
+ * Plot your route on the map
+ * Add the airports to the weather menu 
+ * Add quick links for the airports for other information
+
 #### Where to find your SimBrief ID
+
+This is found on SimBrief under Account settings->SimBrief data
+
+Note this is your Pilot ID not your username
+
+![Alt text](images/sb-1.png)
+
 #### Configuring the SimBrief ID in VSR
+
+The SimBrief ID is entered in the configuration screen
+Tools->Edit config->Your SimBrief ID.
+
 
 ## Running the server
 ### Startup procedure
