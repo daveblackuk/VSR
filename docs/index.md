@@ -336,8 +336,8 @@ I also get usability research from watching Youtube streamers using VSR.
 
 ## Links
 
-* Discord: https://discord.gg/MJ6fBfYfNR
-* GitHub: https://github.com/daveblackuk/VSR
+* [Discord:](https://discord.gg/MJ6fBfYfNR)
+* [GitHub:](https://github.com/daveblackuk/VSR)
 
 
 ## Acknowledgments
