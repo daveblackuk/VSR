@@ -3,8 +3,8 @@
 
 MSFS 2020 toolbar app for VATSIM
 
+![header](https://user-images.githubusercontent.com/4178804/215447464-ea34c0fd-3ea4-48aa-a2db-6bd687268cae.png)
 
-<a href="https://www.youtube.com/watch?v=Xp72yo8IUcY" target="_blank"> <img width="800" alt="image" src="https://user-images.githubusercontent.com/4178804/178738153-935324aa-7ce9-4857-81c4-af3385934324.png"> </a>
 
 <a href="https://www.youtube.com/watch?v=Xp72yo8IUcY"  target="_blank"> 
 Click to play promo video </a>
