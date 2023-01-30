@@ -2,7 +2,9 @@
 
 MSFS 2020 toolbar app for VATSIM
 
-<a href="https://www.youtube.com/watch?v=Xp72yo8IUcY" target="_blank"> <img width="800" alt="image" src="https://user-images.githubusercontent.com/4178804/178738153-935324aa-7ce9-4857-81c4-af3385934324.png"> </a>
+Latest release can be download from  <a href="https://github.com/daveblackuk/VSR/releases/tag/VSR"  target="_blank"> Github </a>
+
+![Alt text](images/header.png)
 
 <a href="https://www.youtube.com/watch?v=Xp72yo8IUcY"  target="_blank"> 
 Click to play promo video </a>
@@ -276,15 +278,54 @@ You can check in the simulator to ensure the toolbar app is installed and loaded
 
 #### Checking that the DLL is being loaded by vPilot
 
-vPilot debug log (type .debug into vPilot) should contain the following:
+Start debugging in Vpilot by typing .debug into vPilot, connect to the VATSIM network and the should contain the following:
+
+![Alt text](images/vpilot-log.png)
+
+Once connected with a flight started, send a message to the network (no receipient). vPilot will show the message in its interface.
+
+![Alt text](images/vpilot-send-message.png)
+
+The vPilot debug log will contain:
+
+![Alt text](images/vpilot-log2.png)
+
 
 
 #### Checking the server is running correctly
+
 Load a browser and navigate to http://locahost:1228. If the server is functioning then the VSR screen will load.
 
-
-
 ## FAQs
+
+### Why did you develop this?
+
+VSR came about from my own needs, I wanted to fly in VR and use VATSIM, it wasn't easy to get the controller info in the cockpiut.
+
+I also had issues remembering the frequencies, a common issue with single pilot IFR flying in any aircraft. So having a simple click to change facility eased that burden.
+
+### Why do I need to run a server?
+
+The server has the following benefits:
+
+* Reduces the work load on the toolbar app in the sim; thus removing the risk of performance issues such as stuttering.
+* Acts as a bridge between the toolbsar app and vPilot DLL
+* Removes the need to run this in the cloud, thus incurring costs. We want to keep this as freeware
+
+### Can we have bigger fonts in VR?
+
+The app can be resized and positioned nearer or further from you using the following instructions:
+
+ <a href="https://youtu.be/PnuaL6olY9g" target="_blank">Resizing toolbar apps in VR</a>
+
+
+### Can you add [insert feature] ?
+
+VSR is designed to facilitate VATSIM flying; a key design principle is not to replicate features found in other software, for instance scribble notepads, navigraph charts integration etc. 
+
+However, always ask over on the Discord. Some great features have come from user suggestions.
+
+
 
 ## Authors
 
@@ -307,16 +348,10 @@ https://discord.gg/MJ6fBfYfNR
 * Ross Carlson's [vPilot project](https://vpilot.rosscarlson.dev/) 
 * Last but not least, the amazing group of people who joined and Beta programme and tested this thing until it was good to go !
 
-## Additional Screenshots
-![Alt text](./images/screenshot1.png)
-
-![Alt text](./images/screenshot2.png)
-
-![Alt text](./images/screenshot3.png)
-
-![Alt text](./images/screenshot4.png)
-
-
-## Buy me a Coffee
+## Buy me a Coffee or donate via Paypal
 
 <a href="https://www.buymeacoffee.com/deltabravozulu" target="_blank"><img width="100" alt="bmc-logo-yellow" src="https://user-images.githubusercontent.com/4178804/178282683-2d1195e1-7582-4ab5-aee3-9b57305e795c.png"></a>
+
+Here's a  link for those wishing to use   <a href="https://www.paypal.com/donate/?hosted_button_id=W4LJUKDFRFDBY" target="_blank">PayPal</a>
+
+**Thanks**
