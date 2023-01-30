@@ -237,6 +237,7 @@ If you are upgrading from an earlier version, then the server will import your c
 #### Waiting for MSFS
 
 Once the server has checked the registry, it will then wait for the simulator to start. It will then start 3 server processes:
+
  * The core webserver component on port 1228 (you can check on http://localhost:1228) - Please note that your initial location will be West Africa in the Atlantic at the Equator and Meridian 
  * The vPilot DLL connection for incoming VATSIM messages
  * The vPilot DLL connection for outgoing VATSIM messages
@@ -274,6 +275,9 @@ You can check in the simulator to ensure the toolbar app is installed and loaded
 ![Microsoft Flight Simulator Screenshot 2022 06 09 - 05 41 42 96](https://user-images.githubusercontent.com/4178804/210109986-72bc6617-90dc-4ffd-9ddc-2222ec0a2822.png)
 
 #### Checking that the DLL is being loaded by vPilot
+
+vPilot debug log (type .debug into vPilot) should contain the following:
+
 
 #### Checking the server is running correctly
 Load a browser and navigate to http://locahost:1228. If the server is functioning then the VSR screen will load.
