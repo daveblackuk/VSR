@@ -304,6 +304,8 @@ VSR came about from my own needs, I wanted to fly in VR and use VATSIM, it wasn'
 
 I also had issues remembering the frequencies, a common issue with single pilot IFR flying in any aircraft. So having a simple click to change facility eased that burden.
 
+
+
 ### Why do I need to run a server?
 
 The server has the following benefits:
@@ -325,17 +327,17 @@ VSR is designed to facilitate VATSIM flying; a key design principle is not to re
 
 However, always ask over on the Discord. Some great features have come from user suggestions.
 
-
+I also get usability research from watching Youtube streamers using VSR.
 
 ## Authors
 
 * David Black (main server and app)
 * Craig Farrell (vPilot plug-in)
 
+## Links
 
-## Discord channel
-
-https://discord.gg/MJ6fBfYfNR
+* Discord: https://discord.gg/MJ6fBfYfNR
+* GitHub: https://github.com/daveblackuk/VSR
 
 
 ## Acknowledgments
