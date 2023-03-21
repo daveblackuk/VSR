@@ -9,7 +9,7 @@ MSFS 2020 toolbar app for VATSIM
 <a href="https://www.youtube.com/watch?v=Xp72yo8IUcY"  target="_blank"> 
 Click to play promo video </a>
 
-![header] IMPORTANT Notice 21st March 2023
+<H1> IMPORTANT Notice 21st March 2023
 
 MSFS SU12 appears to render the fonts in VR incorrectly; there is a fix for VSR available as a beta version at
 
