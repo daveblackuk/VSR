@@ -9,6 +9,21 @@ MSFS 2020 toolbar app for VATSIM
 <a href="https://www.youtube.com/watch?v=Xp72yo8IUcY"  target="_blank"> 
 Click to play promo video </a>
 
+IMPORTANT Notice 21st March 2023
+
+MSFS SU12 appears to render the fonts in VR incoorectly; there is a fix for VSR available as a beta version at
+
+https://drive.google.com/file/d/1PIWEhSgd-y149AO0bhordvGMonZ5Y5R5/view?usp=share_link
+
+The key consideration is that this is a release of both the server and the toolbar app; the latter has changes that allows for the content to be resized. 
+
+This will address any issues if SU12 is not fixed by release. However, with the current release, this does allow you to change the size in the config for the default and the VR simulator states. Choosing values between 1 and 1.5 give best results, values are unbounded. If the SU12 bug persists then a value of 2.5 in the VR settings will fix it. Note there are some quirks with resizing, the zoom with mouse wheel on the map for instance needs your cursor to be centred about 25% to the NW of your aircraft !
+A major change is that the configuration is now maintained in the registry - if you are familiar with Regedit then the keys are at: HKEY_CURRENT_USER\SOFTWARE\DeltaBravoZulu\VSR. The server will attempt to import your existing config from config.ini if it is in the same directory.  To reverse and retry the process delete this key. 
+
+New documentation is at https://docs.vsrsoftware.com 
+ 
+
+
 
 ## Description
 
