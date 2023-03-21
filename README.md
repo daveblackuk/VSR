@@ -24,6 +24,9 @@ A major change is that the configuration is now maintained in the registry - if 
 New documentation is at https://docs.vsrsoftware.com 
  
 <p>
+ 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/4178804/226694428-eab4abd5-5ab7-4de3-b034-5b2f66ef29cb.png">
+
 
 
 ## Description
