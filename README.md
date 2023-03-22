@@ -11,9 +11,7 @@ Click to play promo video </a>
 
 <H1> IMPORTANT Notice 21st March 2023 </H1>
 
-MSFS SU12 appears to render the fonts in VR incorrectly; there is a fix for VSR available as a beta version at
-
-https://drive.google.com/file/d/1PIWEhSgd-y149AO0bhordvGMonZ5Y5R5/view?usp=share_link
+MSFS SU12 appears to render the fonts in VR incorrectly; there is a fix for VSR available as a beta version under the link on the right
 
 The key consideration is that this is a release of both the server and the toolbar app; the latter has changes that allows for the content to be resized. 
 <p>
