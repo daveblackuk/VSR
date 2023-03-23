@@ -15,7 +15,7 @@ MSFS SU12 appears to render the fonts in VR incorrectly; there is a fix for VSR 
 
 The key consideration is that this is a release of both the server and the toolbar app; the latter has changes that allows for the content to be resized. 
 <p>
-This will address any issues if SU12 is not fixed by release. However, with the current release, this does allow you to change the size in the config for the default and the VR simulator states. Choosing values between 1 and 1.5 give best results, values are unbounded. If the SU12 bug persists then a value of 2.5 in the VR settings will fix it. Note there are some quirks with resizing, the zoom with mouse wheel on the map for instance needs your cursor to be centred about 25% to the NW of your aircraft!
+0.8.1.X will address  the SU12 bug a value of 2.5 in the VR Zoom setting will fix it. Note there are some quirks with resizing, the zoom with mouse wheel on the map for instance needs your cursor to be centred about 25% to the NW of your aircraft!
 <p>
 A major change is that the configuration is now maintained in the registry - if you are familiar with Regedit then the keys are at: HKEY_CURRENT_USER\SOFTWARE\DeltaBravoZulu\VSR. The server will attempt to import your existing config from config.ini if it is in the same directory.  To reverse and retry the process delete this key. 
 
