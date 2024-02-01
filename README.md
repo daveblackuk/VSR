@@ -13,7 +13,9 @@ Documentation:  https://docs.vsrsoftware.com
 
 
 <p>
-Please note that as of 1st February, 2024 Asobo have introduced a bug so that VSR cannot tell if it is in VR mode; therefore the zoom function is not working correctly when you switch. One workaround is to edit the config in non VR mode and change default zoom to 4. This will have an effect of zooming at that level for non VR zessions; if you need to subsquencly set anything in the config then please start the server and MSFS then navigate to http://localhost:1228 in a browser to set the config (or use regedit to edit in HKEY_CURRENT_USER\SOFTWARE\DeltaBravoZulu\VSR - a longer term work around is being developed.
+Please note that as of 1st February, 2024 Asobo have introduced a bug so that VSR cannot tell if it is in VR mode; therefore the zoom function is not working correctly when you switch. One workaround is to edit the config in non VR mode and change default zoom to 4. This will have an effect of zooming at that level for non VR sessions. 
+  
+If you need to subsquencly set anything in the config then please start the server and MSFS then navigate to http://localhost:1228 in a browser to set the config (or use regedit to edit in HKEY_CURRENT_USER\SOFTWARE\DeltaBravoZulu\VSR) - a longer term work around is being developed.
 
 
 ## Description
