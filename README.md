@@ -62,6 +62,9 @@ Download the zip file under latest release link on the right, unzip & run vsrins
 * Start MSFS 2020, start a flight, click on VSR headset icon in the toolbat to launch the app
 * A splash screen will load, if the server is correctly installed and running it will be displayed
 
+### Architecture
+
+![image](https://github.com/daveblackuk/VSR/assets/4178804/e6be756a-11fd-4cda-b2b8-877714790413)
 
 
 
