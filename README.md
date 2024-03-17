@@ -11,7 +11,7 @@ Click to play promo video </a>
 
 Documentation:  https://docs.vsrsoftware.com 
 
-Release 0.8.1.5 Fixes the rendering issue and also introduces many new features including a workaround for the VR bug, CTAF support and importantly not need for a weather key.
+Release 0.8.1.5 Fixes the rendering issue and also introduces many new features including a workaround for the VR bug, CTAF support and importantly no further need for a weather key.
 
 This playlist contains demos for many of the new features:
 
