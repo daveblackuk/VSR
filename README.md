@@ -11,11 +11,17 @@ Click to play promo video </a>
 
 Documentation:  https://docs.vsrsoftware.com 
 
+Release 0.8.1.5 Fixes the rendering issue and also introduces many new features including a workaround for the VR bug, CTAF support and importantly not need for a weather key.
+
+This playlist contains demos for many of the new features:
+
+
+<a href="https://www.youtube.com/playlist?list=PLPLro718J3KbW5_OcYUoJ8daLQOIuKvSc"  target="_blank"> This playlist contains demos for many of the new features </a>
 
 <p>
 Please note that as of 1st February, 2024 Asobo have introduced a bug so that VSR cannot tell if it is in VR mode; therefore the zoom function is not working correctly when you switch. One workaround is to edit the config in non VR mode and change default zoom to the same value you have for VR zoom (between 2.5 and 4) . This will have an effect of zooming at that level for non VR sessions. 
   
-If you need to subsquently set anything in the config in non VR mode then please start the server and MSFS then navigate to http://localhost:1228 in a browser to set the config (or use regedit to edit in HKEY_CURRENT_USER\SOFTWARE\DeltaBravoZulu\VSR) - a longer term work around is being developed.
+Release 0.8.1.5 has a new button on the bottom 
 
 
 ## Description
