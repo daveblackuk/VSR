@@ -40,7 +40,7 @@ The install process is now via an installer programme, this will:
 * Install latest release of the VSR Toolbar app
 * Install latest release of the VSR/vPilot messaging DLL (and check it is installed correctly)
 * Install new vPilot inbound message sounds 
-* Enable configuration of the server with simBrief, VATSIM and CHECKWX data
+* Enable configuration of the server with simBrief, VATSIM details
 
 <a href="https://www.youtube.com/watch?v=dQLiLrA36kM&list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank"> Installer Video </a>
   
