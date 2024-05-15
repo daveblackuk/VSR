@@ -86,7 +86,7 @@ Download the zip file under latest release link on the right, unzip & run vsrins
 
 ## Discord channel
 
-https://discord.gg/MJ6fBfYfNR
+[https://discord.gg/MJ6fBfYfNR](https://discord.gg/RVrp5HSPVu)
 
 
 ## Acknowledgments
