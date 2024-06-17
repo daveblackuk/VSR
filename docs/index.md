@@ -156,21 +156,7 @@ Copy the sound files to the following directory:
 
 `  %AppData%\Local\vPilot\sounds ` 
 
-### The Metar key
-#### Why do you need a key?
- The METAR key is essential for a number of functions within VSR, not only is it used for getting weather updates  other conditional content, such as asking the controller whether they cover your current airport.
 
-#### Obtaining free key
- The METAR key can be obtained free of charge from [www.checkwxapi.com](https://www.checkwxapi.com), this allows you up to 3000 checks per day.
-
-![Alt text](images/checkwx.png)
-
-#### Configuring the key in VSR
-
-The METAR key is entered in the configuration screen
-Tools->Edit config->Your weather key
-
-![Alt text](images/config-metar-key.png)
 
 ### Your VATSIM User ID 
 
