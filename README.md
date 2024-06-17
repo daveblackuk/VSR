@@ -10,36 +10,38 @@ VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to chec
 
 * Tabular and map views on online VATSIM controllers and traffic
 
-* Airport views with online stations, CTAF frequencies, weather (no key required) & traffic 
+* Airport views with online stations, [CTAF frequencies](https://www.youtube.com/watch?v=8KpESDNXBe8), [weather](https://youtu.be/cYkBaya7wHU) (no key required) & traffic 
 
-* Change to a frequency with a single click, or place a frequency on standby ready to change when requested to by ATC. 
+* [Change to a frequency](https://youtu.be/W9IA8t_TeN4) with a single click, or place a frequency on standby ready to change when requested to by ATC. 
 
 * Send & receive messages to and from the VATSIM network using vPilot.
 
-* Request and receive ACARS CDPLC Pre-departure clearances messages, even if your aircraft isn't equiped with ACARS.
+* Request and receive ACARS CDPLC [Pre-departure clearances messages](https://youtu.be/TYVWbhAM090?si=tPDElzI452YTO-If&t=12), even if your aircraft isn't equiped with ACARS.
 
-* Change Transponder code from a messages (such as PDC), with a single click
+* [Change Transponder code](https://youtu.be/TYVWbhAM090?si=TedPsMZiZBL21Ie8&t=96) from a messages (such as PDC), with a single click
 
-* Change Altimeter from METAR or ATIS
+* [Change Altimeter](https://youtu.be/TYVWbhAM090?si=VjYQuC3VUTjVkdmg&t=158) from METAR or ATIS
 
-* Display Beyond ATC messages (experimental beta feature)
+* [Display Beyond ATC messages](https://youtu.be/TYVWbhAM090?si=VjYQuC3VUTjVkdmg&t=180) (experimental beta feature)
 
 This app is not associated or endorsed by the VATSIM Network
 
 ## Links
 
-* Promo Video: https://www.youtube.com/watch?v=Xp72yo8IUcY
+* [Promo Video](https://www.youtube.com/watch?v=Xp72yo8IUcY)
 
-* Features Playlist: https://www.youtube.com/playlist?list=PLPLro718J3KbW5_OcYUoJ8daLQOIuKvSc
+* [Features Playlist](https://www.youtube.com/playlist?list=PLPLro718J3KbW5_OcYUoJ8daLQOIuKvSc)
 
-* Latest Release: https://github.com/daveblackuk/VSR/releases/tag/VSR
+* [Latest Release](https://github.com/daveblackuk/VSR/releases/tag/VSR)
 
-* Documentation:  https://docs.vsrsoftware.com 
+* [Documentation](https://docs.vsrsoftware.com)
+  
+* [Tutorials](https://www.youtube.com/playlist?list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh)
 
 
 ## Getting Started
 
-The installer programme will:
+The [installer programme](https://youtu.be/dQLiLrA36kM) will:
 
 * Install latest release of the server
 * Install latest release of the VSR Toolbar app
