@@ -5,44 +5,41 @@
 
 
 ## Key Features
-
-VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to check which air traffic controllers are online when flying on the VATSIM Network.  
-
 * Tabular and map views on online VATSIM controllers and traffic
 
-* Airport views with online stations, [CTAF frequencies](https://www.youtube.com/watch?v=8KpESDNXBe8) and traffic.
+* <a href="views" target="_blank">Airport views</a> with online stations, <a href="https://www.youtube.com/watch?v=8KpESDNXBe8" target="_blank">CTAF frequencies</a> and traffic.
 
-* Airport [weather](https://youtu.be/cYkBaya7wHU) (no key required).
- 
-* [Change to a frequency](https://youtu.be/W9IA8t_TeN4) with a single click, or place a frequency on standby ready to change when requested to by ATC. 
+* Airport <a href="https://youtu.be/cYkBaya7wHU" target="_blank">weather</a> (no key required).
+
+* <a href="https://youtu.be/W9IA8t_TeN4" target="_blank">Change to a frequency</a> with a single click, or place a frequency on standby ready to change when requested to by ATC.
 
 * Send & receive messages to and from the VATSIM network using vPilot.
 
-* Import Simbrief and VATSIM [flight plans](https://www.youtube.com/watch?v=q0iAoEC4zIU&t=24s) to help with aircraft and flight setup. 
+* Import Simbrief and VATSIM <a href="https://www.youtube.com/watch?v=q0iAoEC4zIU&t=24s" target="_blank">flight plans</a> to help with aircraft and flight setup.
 
-* Request and receive ACARS CDPLC [Pre-departure clearances messages](https://youtu.be/TYVWbhAM090?si=tPDElzI452YTO-If&t=12), even if your aircraft isn't equiped with ACARS.
+* Request and receive ACARS CDPLC <a href="https://youtu.be/TYVWbhAM090?si=tPDElzI452YTO-If&t=12" target="_blank">Pre-departure clearances messages</a>, even if your aircraft isn't equipped with ACARS.
 
-* [Change Transponder code](https://youtu.be/TYVWbhAM090?si=TedPsMZiZBL21Ie8&t=96) from a messages (such as PDC), with a single click
+* <a href="https://youtu.be/TYVWbhAM090?si=TedPsMZiZBL21Ie8&t=96" target="_blank">Change Transponder code</a> from a message (such as PDC), with a single click.
 
-* [Change Altimeter](https://youtu.be/TYVWbhAM090?si=VjYQuC3VUTjVkdmg&t=158) from METAR or ATIS
+* <a href="https://youtu.be/TYVWbhAM090?si=VjYQuC3VUTjVkdmg&t=158" target="_blank">Change Altimeter</a> from METAR or ATIS.
 
-* [Display Beyond ATC messages](https://youtu.be/TYVWbhAM090?si=VjYQuC3VUTjVkdmg&t=180) (experimental beta feature)
+* <a href="https://youtu.be/TYVWbhAM090?si=VjYQuC3VUTjVkdmg&t=180" target="_blank">Display Beyond ATC messages</a> (experimental beta feature).
 
-This app is not associated or endorsed by the VATSIM Network
+This app is not associated or endorsed by the VATSIM Network.
 
 ## Links
 
-* [Promo Video](https://www.youtube.com/watch?v=Xp72yo8IUcY)
+* <a href="https://www.youtube.com/watch?v=Xp72yo8IUcY" target="_blank">Promo Video</a>
 
-* [Features Playlist](https://www.youtube.com/playlist?list=PLPLro718J3KbW5_OcYUoJ8daLQOIuKvSc)
+* <a href="https://www.youtube.com/playlist?list=PLPLro718J3KbW5_OcYUoJ8daLQOIuKvSc" target="_blank">Features Playlist</a>
 
-* [Latest Release](https://github.com/daveblackuk/VSR/releases/tag/VSR)
+* <a href="https://github.com/daveblackuk/VSR/releases/tag/VSR" target="_blank">Latest Release</a>
 
-* [Documentation](https://docs.vsrsoftware.com)
-  
-* [Tutorials](https://www.youtube.com/playlist?list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh)
+* <a href="https://docs.vsrsoftware.com" target="_blank">Documentation</a>
 
-* [Discord](https://discord.gg/AGnazfDwYZ)
+* <a href="https://www.youtube.com/playlist?list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh" target="_blank">Tutorials</a>
+
+* <a href="https://discord.gg/AGnazfDwYZ" target="_blank">Discord</a>
 
 
 ## Getting Started
