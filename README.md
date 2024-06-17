@@ -7,7 +7,7 @@
 ## Key Features
 * Tabular and map views on online VATSIM controllers and traffic
 
-* <a href="views" target="_blank">Airport views</a> with online stations, <a href="https://www.youtube.com/watch?v=8KpESDNXBe8" target="_blank">CTAF frequencies</a> and traffic.
+* <a href="https://youtu.be/TYVWbhAM090?si=C68EsT_JKcB2AJyu&t=251" target="_blank">Airport views</a> with online stations, <a href="https://www.youtube.com/watch?v=8KpESDNXBe8" target="_blank">CTAF frequencies</a> and traffic.
 
 * Airport <a href="https://youtu.be/cYkBaya7wHU" target="_blank">weather</a> (no key required).
 
