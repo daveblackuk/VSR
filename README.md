@@ -1,33 +1,45 @@
 # VSR for VATSIM
 
 
-MSFS 2020 toolbar app for VATSIM
-
 ![header](https://user-images.githubusercontent.com/4178804/215447464-ea34c0fd-3ea4-48aa-a2db-6bd687268cae.png)
 
 
-<a href="https://www.youtube.com/watch?v=Xp72yo8IUcY"  target="_blank"> 
-Click to play promo video </a>
+## Key Features
 
-Documentation:  https://docs.vsrsoftware.com 
+VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to check which air traffic controllers are online when flying on the VATSIM Network.  
 
-This playlist contains demos for many of the new features:
+* Tabular and map views on online VATSIM controllers and traffic
 
+* Airport views with online stations, CTAF frequencies, weather (no key required) & traffic 
 
-<a href="https://www.youtube.com/playlist?list=PLPLro718J3KbW5_OcYUoJ8daLQOIuKvSc"  target="_blank"> This playlist contains demos for many of the new features </a>
+* Change to a frequency with a single click, or place a frequency on standby ready to change when requested to by ATC. 
 
+* Send & receive messages to and from the VATSIM network using vPilot.
 
-## Description
+* Request and receive ACARS CDPLC Pre-departure clearances messages, even if your aircraft isn't equiped with ACARS.
 
-VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to check which air traffic controllers are online when flying on the VATSIM Network. You can easily change to a frequency with a single click, or place a frequency on standby ready to change when requested to by ATC. The app also send & receives messages to and from the VATSIM network.
+* Change Transponder code from a messages (such as PDC), with a single click
+
+* Change Altimeter from METAR or ATIS
+
+* Display Beyond ATC messages (experimental beta feature)
 
 This app is not associated or endorsed by the VATSIM Network
 
+## Links
+
+* Promo Video: https://www.youtube.com/watch?v=Xp72yo8IUcY
+
+* Features Playlist: https://www.youtube.com/playlist?list=PLPLro718J3KbW5_OcYUoJ8daLQOIuKvSc
+
+* Latest Release: https://github.com/daveblackuk/VSR/releases/tag/VSR
+
+* Documentation:  https://docs.vsrsoftware.com 
+
+
 ## Getting Started
 
-*** Please note ***
-
-The install process is now via an installer programme, this will:
+The installer programme will:
 
 * Install latest release of the server
 * Install latest release of the VSR Toolbar app
@@ -47,13 +59,11 @@ Download the zip file under latest release link on the right, unzip & run vsrins
 * Microsoft Flight Simulator 2020
 * Windows 10 and above
 * [vPilot](https://vpilot.rosscarlson.dev/) to connect to VATSIM and relay messages 
-* Newtonsoft.json.dll (for messaging) - installed with vPilot
 * SimConnect
 
 ### Installing
 
 * Download zip, unzip and run latest installer
-
 
 ### Executing program
 
