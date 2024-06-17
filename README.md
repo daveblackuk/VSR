@@ -15,7 +15,7 @@
 
 * Send & receive messages to and from the VATSIM network using vPilot.
 
-* Import Simbrief and VATSIM <a href="https://www.youtube.com/watch?v=q0iAoEC4zIU&t=24s" target="_blank">flight plans</a> to help with aircraft and flight setup.
+* Import Simbrief and VATSIM <a href="https://www.youtube.com/watch?v=q0iAoEC4zIU" target="_blank">flight plans</a> to help with aircraft and flight setup.
 
 * Request and receive ACARS CDPLC <a href="https://youtu.be/TYVWbhAM090?si=tPDElzI452YTO-If&t=12" target="_blank">Pre-departure clearances messages</a>, even if your aircraft isn't equipped with ACARS.
 
