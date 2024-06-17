@@ -10,11 +10,15 @@ VSR is a toolbar app for Microsoft Flight Simulator 2020 that allows you to chec
 
 * Tabular and map views on online VATSIM controllers and traffic
 
-* Airport views with online stations, [CTAF frequencies](https://www.youtube.com/watch?v=8KpESDNXBe8), [weather](https://youtu.be/cYkBaya7wHU) (no key required) & traffic 
+* Airport views with online stations, [CTAF frequencies](https://www.youtube.com/watch?v=8KpESDNXBe8) and traffic.
 
+* Airport [weather](https://youtu.be/cYkBaya7wHU) (no key required).
+ 
 * [Change to a frequency](https://youtu.be/W9IA8t_TeN4) with a single click, or place a frequency on standby ready to change when requested to by ATC. 
 
 * Send & receive messages to and from the VATSIM network using vPilot.
+
+* Import Simbrief and VATSIM [flight plans](https://www.youtube.com/watch?v=q0iAoEC4zIU&t=24s) to help with aircraft and flight setup. 
 
 * Request and receive ACARS CDPLC [Pre-departure clearances messages](https://youtu.be/TYVWbhAM090?si=tPDElzI452YTO-If&t=12), even if your aircraft isn't equiped with ACARS.
 
@@ -37,6 +41,8 @@ This app is not associated or endorsed by the VATSIM Network
 * [Documentation](https://docs.vsrsoftware.com)
   
 * [Tutorials](https://www.youtube.com/playlist?list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh)
+
+* [Discord](https://discord.gg/AGnazfDwYZ)
 
 
 ## Getting Started
@@ -91,7 +97,7 @@ Download the zip file under latest release link on the right, unzip & run vsrins
 
 ## Discord channel
 
-[https://discord.gg/MJ6fBfYfNR](https://discord.gg/RVrp5HSPVu)
+https://discord.gg/AGnazfDwYZ
 
 
 ## Acknowledgments
