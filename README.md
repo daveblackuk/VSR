@@ -4,6 +4,10 @@
 ![header](https://user-images.githubusercontent.com/4178804/215447464-ea34c0fd-3ea4-48aa-a2db-6bd687268cae.png)
 
 
+VSR is a toolbar app that helps the virtual pilot flying on VATSIM and Beyond. Real time info is provided in the cockpit for controllers and airports. You can receive and send VATSIM messages, and request a pre-departure clearance via ACARS/CPDLC or VATSIM messaaging. 
+
+<a href="https://www.youtube.com/watch?v=Xp72yo8IUcY" target="_blank">Promo Video</a>
+
 ## Key Features
 * Tabular and map views on online VATSIM controllers and traffic
 
