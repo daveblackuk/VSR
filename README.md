@@ -1,4 +1,4 @@
-# VSR for VATSIM
+# VSR - Virtual Sim Radio
 
 
 ![header](https://user-images.githubusercontent.com/4178804/215447464-ea34c0fd-3ea4-48aa-a2db-6bd687268cae.png)
