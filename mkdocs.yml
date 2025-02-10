@@ -35,3 +35,4 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search
+docs_dir: docs2

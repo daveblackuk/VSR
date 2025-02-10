@@ -27,6 +27,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mdsplit
-      - run: mdsplit docs/index.md --max-level 2 --output docs
+      - run: mdsplit docs/index.md --max-level 2 --output docs2
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
