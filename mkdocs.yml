@@ -1,4 +1,51 @@
-site_name: VSR Toolbar app for VATSIM
+site_name: VSR for VATSIM
+repo_url: https://github.com/daveblackuk/VSR
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/AGnazfDwYZ
 theme:
-  name: readthedocs
-  highlightjs: true
+  name: material
+  #logo: assets/engineer_edited.ico
+  #favicon: assets/engineer_edited.ico
+  features:
+    - search.suggest
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+nav:
+    - index.md
+    - Getting-Started.md
+    - Running-the-server.md
+    - Troubleshooting.md
+    - FAQs.md
+plugins:
+  - search
+  - glightbox
+  - awesome-pages
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg  
