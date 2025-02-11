@@ -1,4 +1,4 @@
-## VSR Installation and Setup Guide
+# VSR Installation and Setup Guide
 
 VSR consists of three components:
 
@@ -8,7 +8,7 @@ VSR consists of three components:
 
 An optional sound file can be installed under vPilot which makes it easier to hear incoming messages. [preview](https://youtu.be/JVm2Azv1CiQ)
 
-### Installation
+## Installation
 
 The install process can either be run through the installer program, or manually. The installer will:
 
@@ -113,6 +113,8 @@ If messaging is not functioning, then please see the [debugging section](#how-to
 Copy the sound files to the following directory:
 
 `%AppData%\Local\vPilot\sounds`
+
+## Setup
 
 ### Your VATSIM User ID
 
