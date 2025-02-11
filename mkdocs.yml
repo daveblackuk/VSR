@@ -12,6 +12,7 @@ theme:
   favicon: assets/engineer_edited.ico
   features:
     - search.suggest
+    - navigation.tabs
   palette:
 
     # Palette toggle for light mode
