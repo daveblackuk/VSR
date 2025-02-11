@@ -1,4 +1,4 @@
-## Running the server
+# Running the server
 ### Startup procedure
 
 #### 1st time run or import

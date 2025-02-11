@@ -1,4 +1,4 @@
-## Troubleshooting
+# Troubleshooting
 ### Known issues
 
 * If you start a new flight after returning to the main simulator menu, then please restart the server from the config menu to ensure the correct aircraft location is shown in VSR.

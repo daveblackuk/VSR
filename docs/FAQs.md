@@ -1,4 +1,4 @@
-## FAQs
+# FAQs
 
 ### Why did you develop this?
 
@@ -31,3 +31,31 @@ However, always ask over on the Discord. Some great features have come from user
 
 I also get usability research from watching Youtube streamers using VSR.
 
+## Authors
+
+* David Black (main server and app)
+* Craig Farrell (vPilot plug-in)
+
+## Links
+
+* [Discord:](https://discord.gg/MJ6fBfYfNR)
+* [GitHub:](https://github.com/daveblackuk/VSR)
+
+
+## Acknowledgments
+
+* Craig Farrell for developing the vPilot plug-in
+* The [Leaflet](https://leafletjs.com/) map libraries 
+* The [Tabulator](http://tabulator.info/) framework
+* The [VAT-Spy](https://github.com/vatsimnetwork/vatspy-data-project) data project
+* Maximus and others for helping [simplify](https://github.com/bymaximus/msfs2020-toolbar-window-template/issues/22) the MSFS toolbar app environment 
+* Ross Carlson's [vPilot project](https://vpilot.rosscarlson.dev/) 
+* Last but not least, the amazing group of people who joined and Beta programme and tested this thing until it was good to go !
+
+## Buy me a Coffee or donate via Paypal
+
+<a href="https://www.buymeacoffee.com/deltabravozulu" target="_blank"><img width="100" alt="bmc-logo-yellow" src="https://user-images.githubusercontent.com/4178804/178282683-2d1195e1-7582-4ab5-aee3-9b57305e795c.png"></a>
+
+Here's a  link for those wishing to use   <a href="https://www.paypal.com/donate/?hosted_button_id=W4LJUKDFRFDBY" target="_blank">PayPal</a>
+
+**Thanks**
