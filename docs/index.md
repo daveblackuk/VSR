@@ -3,9 +3,9 @@ hide:
   - navigation
 
 ---
-# VSR for VATSIM 
+# Visual Sim Radio (VSR)
 
-MSFS 2020 toolbar app for VATSIM
+MSFS 2020/2024 toolbar app for VATSIM and SayIntentions.AI
 
 
 [:fontawesome-solid-download: Download VSR](https://github.com/daveblackuk/VSR/releases/tag/VSR){ .md-button .md-button--primary }
