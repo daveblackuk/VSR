@@ -5,6 +5,10 @@ MSFS 2020 toolbar app for VATSIM
 
 [:fontawesome-solid-download: Download VSR](https://github.com/daveblackuk/VSR/releases/tag/VSR){ .md-button .md-button--primary }
 [:fontawesome-brands-discord: Join our Discord](https://discord.gg/AGnazfDwYZ){ .md-button .md-button--primary }
+[ :fontawesome-brands-paypal: Donate to Crew Chief](https://www.paypal.com/donate/?hosted_button_id=W4LJUKDFRFDBY){ .md-button .md-button--primary align=right }
+
+<a href="https://www.buymeacoffee.com/deltabravozulu" target="_blank"><img width="100" alt="bmc-logo-yellow" src="https://user-images.githubusercontent.com/4178804/178282683-2d1195e1-7582-4ab5-aee3-9b57305e795c.png"></a>
+
 
 
 ![Alt text](images/header.png)
