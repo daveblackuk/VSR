@@ -5,8 +5,6 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/AGnazfDwYZ
-hide:
-  - navigation
 theme:
   name: material
   #logo: assets/engineer_edited.ico
