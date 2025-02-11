@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+
+---
 # FAQs
 
 ### Why did you develop this?

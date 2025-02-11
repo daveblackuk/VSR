@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+
+---
 # VSR for VATSIM 
 
 MSFS 2020 toolbar app for VATSIM

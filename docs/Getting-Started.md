@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+
+---
 # VSR Installation and Setup Guide
 
 VSR consists of three components:

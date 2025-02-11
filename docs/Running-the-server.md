@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+
+---
 # Running the server
 ### Startup procedure
 
