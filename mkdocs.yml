@@ -36,6 +36,7 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search
+  - glightbox
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
