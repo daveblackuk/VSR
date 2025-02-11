@@ -10,6 +10,8 @@ theme:
   name: material
   #logo: assets/engineer_edited.ico
   #favicon: assets/engineer_edited.ico
+  hide:
+    - navigation
   features:
     - search.suggest
     - navigation.tabs
