@@ -2,7 +2,10 @@
 
 MSFS 2020 toolbar app for VATSIM
 
-Latest release can be download from  <a href="https://github.com/daveblackuk/VSR/releases/tag/VSR"  target="_blank"> Github </a>
+
+[:fontawesome-solid-download: Download VSR](https://github.com/daveblackuk/VSR/releases/tag/VSR){ .md-button .md-button--primary }
+[:fontawesome-brands-discord: Join our Discord](https://discord.gg/AGnazfDwYZ){ .md-button .md-button--primary }
+
 
 ![Alt text](images/header.png)
 
