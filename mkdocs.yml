@@ -8,8 +8,8 @@ extra:
 
 theme:
   name: material
-  logo: assets/engineer_edited.ico
-  favicon: assets/engineer_edited.ico
+  #logo: assets/engineer_edited.ico
+  #favicon: assets/engineer_edited.ico
   features:
     - search.suggest
     - navigation.tabs
@@ -34,10 +34,18 @@ theme:
         name: Switch to light mode
 extra_css:
   - stylesheets/extra.css
+nav:
+    - index.md
+    - Getting-Started.md
+    - Running-the-server.md
+    - Troubleshooting.md
+    - FAQs.md
 plugins:
   - search
   - glightbox
+  - awesome-pages
 markdown_extensions:
+  - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg  
