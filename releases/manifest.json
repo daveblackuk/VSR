@@ -1,4 +1,4 @@
 {
-  "latest_version": "0.25.22501",
-  "features": "- Improved stability\n- New ATC features\n- Bug fixes\n- Enhanced UI"
+  "latest_version": "0.25.22601",
+"features": "- SI Taxi Paths\\Taxi paths in SayIntentions\nTraffic stability\nWill support new installer\nGeneral fixes\nfixed callsign label issue\nno controller online messages for SI\nRemoved nearest enroute <FL100 for SI IFR"
 }
