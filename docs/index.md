@@ -44,7 +44,7 @@ This app is not associated or endorsed by the VATSIM Network
 ## Authors
 
 * David Black (main server and app)
-* Craig Farrell (vPilot plug-in)
+
 
 ## Links
 
