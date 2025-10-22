@@ -5,11 +5,11 @@
 
 ## Details
 
-* <a href="si.vsrsoftware.com" target="_blank">Details of VATSIM & SI Integration</a>
+* <a href="https://si.vsrsoftware.com" target="_blank">Details of VATSIM & SI Integration</a>
 
 ## Downloads (Flightsim.to)
 
-* <a href="release.vsrsoftware.com" target="_blank">Latest Release</a>
+* <a href="https://release.vsrsoftware.com" target="_blank">Latest Release</a>
 
 ## Discord channel
 
