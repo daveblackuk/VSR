@@ -3,10 +3,13 @@
 
 ![header](https://user-images.githubusercontent.com/4178804/215447464-ea34c0fd-3ea4-48aa-a2db-6bd687268cae.png)
 
+## Details
 
-## More details (Flightsim.to)
+* <a href="https://si.vsrsoftware.com" target="_blank">Details on SI & VS integration</a>
 
-* <a href="release.vsrsoftware.com" target="_blank">Latest Release</a>
+## Download (Flightsim.to)
+
+* <a href="https://release.vsrsoftware.com" target="_blank">Latest Release</a>
 
 ## Discord channel
 
